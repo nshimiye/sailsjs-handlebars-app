@@ -52,3 +52,4 @@ engine: 'handlebars',
 Resource:
 * [Sails](http://sailsjs.org)
 * running the app: `npm install && sails lift`
+* [Using .hbs instead of .handlebars](http://blog.colouringcode.com/using-handlebars-templates-in-sails-js/)
