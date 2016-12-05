@@ -37,7 +37,7 @@ engine: 'handlebars',
 // views/500.handlebars
 ```
 
-* change extinsion used inside `sails-linker.js`
+* change extension used inside `sails-linker.js`
 ```javascript
 // tasks/config/sails-linker.js
 // example
