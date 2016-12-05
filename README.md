@@ -51,3 +51,4 @@ engine: 'handlebars',
 
 Resource:
 * [Sails](http://sailsjs.org)
+* running the app: `npm install && sails lift`
